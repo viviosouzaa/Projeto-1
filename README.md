@@ -1,3 +1,3 @@
 # projeto 2
 
-por favoe click em code e abaixe o arquivo Zip
+por favor click em code e abaixe o arquivo Zip
